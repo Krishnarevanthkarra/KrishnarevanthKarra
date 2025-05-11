@@ -22,10 +22,14 @@ jobs:
       - name: Run update script
         run: python update-readme.py
 
-      - name: Commit and push
+      - name: Commit and Push
+        env:
+          TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          git config --global user.name 'github-actions'
-          git config --global user.email 'github-actions@github.com'
+          git config --global user.name github-actions
+          git config --global user.email github-actions@github.com
+          git remote set-url origin https://x-access-token:${TOKEN}@github.com/${{ github.repository }}
           git add README.md
           git commit -m "Update LeetCode stats" || echo "No changes"
           git push
+
