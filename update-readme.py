@@ -73,7 +73,7 @@ def language_icon(lang):
     }
     return icons.get(lang, "")
 
-def generate_progress_bar(percentage, color):
+def generate_progress_bar(percentage, color="#00B8A3"):
     return f"""
     <div style="width:100%; background:#e5e5e5; border-radius:4px; margin-top:4px;">
         <div style="width:{percentage}%; background:{color}; height:6px; border-radius:4px;"></div>
@@ -133,11 +133,16 @@ def write_readme(data):
                 "Hard": "#FF375F"
             }.get(level, "#3498db")
             
+            progress_bar = ""
+            if level != "All":
+                percentage = round((diff['count']/difficulties['All']['count'])*100)
+                progress_bar = generate_progress_bar(percentage, bg_color)
+            
             f.write(f"""
 <div style="background:white; border-radius:8px; padding:16px; box-shadow:0 2px 8px rgba(0,0,0,0.1);">
   <div style="color:{bg_color}; font-weight:bold; font-size:1.2rem;">{diff['count']}</div>
   <div style="color:#666;">{level}</div>
-  {generate_progress_bar(round((diff['count']/difficulties['All']['count'])*100) if level != 'All' else ''}
+  {progress_bar}
 </div>
 """)
         f.write("</div>\n")
