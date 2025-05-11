@@ -36,18 +36,25 @@
   <div style="color:#00B8A3; font-weight:bold; font-size:1.2rem;">291</div>
   <div style="color:#666;">Easy</div>
   
-    <div style="width:100%; background:#e5e5e5; border-radius:4px; margin-top:4px;">
-        <div style="width:48%; background:#00B8A3; height:6px; border-radius:4px;"></div>
-    </div>
-    <div style="text-align:right; margin-top:-18px; margin-bottom:8px;">
-        <small><strong>48%</strong></small>
-    </div>
-    
+  <div style="width:100%; background:#e5e5e5; border-radius:4px; margin-top:4px;">
+    <div style="width:48%; background:#00B8A3; height:6px; border-radius:4px;"></div>
+  </div>
+  <div style="text-align:right; margin-top:-18px; margin-bottom:8px;">
+    <small><strong>48%</strong></small>
+  </div>
 </div>
 
 <div style="background:white; border-radius:8px; padding:16px; box-shadow:0 2px 8px rgba(0,0,0,0.1);">
   <div style="color:#FFC01E; font-weight:bold; font-size:1.2rem;">306</div>
   <div style="color:#666;">Medium</div>
+  
+  <div style="width:100%; background:#e5e5e5; border-radius:4px; margin-top:4px;">
+    <div style="width:48%; background:#FFC01E; height:6px; border-radius:4px;"></div>
+  </div>
+  <div style="text-align:right; margin-top:-18px; margin-bottom:8px;">
+    <small><strong>48%</strong></small>
+  </div>
+</div>
   
     <div style="width:100%; background:#e5e5e5; border-radius:4px; margin-top:4px;">
         <div style="width:51%; background:#FFC01E; height:6px; border-radius:4px;"></div>
