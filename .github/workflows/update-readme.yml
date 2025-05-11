@@ -20,7 +20,7 @@ jobs:
         run: pip install requests
 
       - name: Run update script
-        run: python update_readme.py
+        run: python update-readme.py
 
       - name: Commit and push
         run: |
