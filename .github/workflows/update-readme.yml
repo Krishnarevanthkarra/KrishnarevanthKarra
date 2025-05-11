@@ -16,8 +16,8 @@ jobs:
 
       - name: Commit and Push Changes
         run: |
-          git config --global user.name "Krishnarevanthkarra"
-          git config --global user.email "krishnarevanth.ic@gmail.com"
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
           git add README.md
           git commit -m "Updated LeetCode stats"
           git push
