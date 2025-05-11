@@ -26,7 +26,7 @@ response = requests.post(
 
 data = response.json()
 stats = {item["difficulty"]: item["count"] for item in data["data"]["matchedUser"]["submitStats"]["acSubmissionNum"]}
-langUsed = {item["languageName"] : item["problemsSolved"] for item in data["data"]["matchedUser"]["submitStats"]["languageProbelmCount"]}
+langUsed = {item["languageName"] : item["problemsSolved"] for item in data["data"]["matchedUser"]["submitStats"]["languageProblemCount"]}
 
 # Update README
 with open("README.md", "r") as file:
