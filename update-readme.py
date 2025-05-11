@@ -11,6 +11,10 @@ query = """
         count
       }
     }
+    languageProblemCount{
+      languageName
+      problemSolved
+    }
   }
 }
 """ % username
@@ -22,6 +26,7 @@ response = requests.post(
 
 data = response.json()
 stats = {item["difficulty"]: item["count"] for item in data["data"]["matchedUser"]["submitStats"]["acSubmissionNum"]}
+langUsed = {item["languageName"] : item["problemsSolved"] for item in data["data"]["matchedUser"]["submitStats"]["languageProbelmCount"]}
 
 # Update README
 with open("README.md", "r") as file:
@@ -34,6 +39,8 @@ new_stats = f"""{start_tag}
 🟢 Easy: {stats['Easy']}
 🟡 Medium: {stats['Medium']}
 🔴 Hard: {stats['Hard']}
+\n<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> : {langUsed["C++"]}
+\n<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> : {langUsed["Python3"]}
 {end_tag}"""
 
 # Replace old stats
