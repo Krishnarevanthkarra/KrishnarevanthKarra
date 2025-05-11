@@ -1,6 +1,6 @@
 import requests
 
-username = "your_leetcode_username"  # Replace this
+username = "Krishna_Revanth_Karra"  # Replace this
 
 query = """
 {
