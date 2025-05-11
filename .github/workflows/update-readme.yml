@@ -1,23 +1,31 @@
-name: Update README
+name: Update LeetCode Stats
+
 on:
   schedule:
-    - cron: '*/5 * * * *' # Runs every hour
-  workflow_dispatch: # Allows manual trigger
+    - cron: '*/5 * * * *'  # Runs daily at midnight
+  workflow_dispatch:
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v3
 
-      - name: Fetch Latest Stats
-        run: curl -o README.md https://leetcode-flask.onrender.com/leetcode-stats/Krishna_Revanth_Karra.svg
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.x
 
-      - name: Commit and Push Changes
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run update script
+        run: python update_readme.py
+
+      - name: Commit and push
         run: |
-          git config --global user.name "GitHub Action"
-          git config --global user.email "action@github.com"
+          git config --global user.name 'github-actions'
+          git config --global user.email 'github-actions@github.com'
           git add README.md
-          git commit -m "Updated LeetCode stats"
+          git commit -m "Update LeetCode stats" || echo "No changes"
           git push
