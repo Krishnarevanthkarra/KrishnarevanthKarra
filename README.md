@@ -12,5 +12,7 @@ hlo
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
 ## 📊 LeetCode Stats
 <!-- LEETCODE_STATS_START -->
-Old stats here (will be replaced)
+🟢 Easy: 291
+🟡 Medium: 306
+🔴 Hard: 5
 <!-- LEETCODE_STATS_END -->
