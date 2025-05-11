@@ -13,7 +13,7 @@ query = """
     }
     languageProblemCount{
       languageName
-      problemSolved
+      problemsSolved
     }
   }
 }
