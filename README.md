@@ -1,1 +1,1 @@
-![LeetCode Stats](https://leetcode-stats-9k4x.onrender.com/leetcode-stats-image/Krishna_Revanth_Karra?cache_bust=20250512))
+![LeetCode Stats](https://leetcode-stats-9k4x.onrender.com/leetcode-stats-image/Krishna_Revanth_Karra?cache_bust=20250512)
