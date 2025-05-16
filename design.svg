@@ -1,0 +1,30 @@
+<svg width="700" height="200"  xmlns="http://www.w3.org/2000/svg">
+        <!-- Background and border -->
+        <!--Total Count-->
+        <rect x="10" y="10" width="690" height="150" rx="6" ry="6" fill="#1E2526" stroke="#e1e4e8" stroke-width="1"/>
+        <!-- Stat Row: Solved and Attempting -->
+        <text x="26" y="40" font-family="Arial, sans-serif" font-size="24" font-weight="600" fill="#ffffff">620/3549</text>
+        <text x="26" y="60" font-family="Arial, sans-serif" font-size="14" fill="#ffffff" text-transform="uppercase" letter-spacing="0.5">SOLVED</text>
+        <text x="250" y="40" font-family="Arial, sans-serif" font-size="24" font-weight="600" fill="#ffffff">62</text>
+        <text x="250" y="60" font-family="Arial, sans-serif" font-size="14" fill="#ffffff" text-transform="uppercase" letter-spacing="0.5">ATTEMPTING</text>
+        <!-- Divider -->
+        <line x1="26" y1="80" x2="340" y2="80" stroke="#e1e4e8" stroke-width="1"/>
+        <!-- Difficulty Stats -->
+        <text x="26" y="100" font-family="Arial, sans-serif" font-size="14" font-weight="600" fill="#28a745">Easy</text>
+        <text x="290" y="100" font-family="monospace" font-size="14" fill="#28a745">300/876</text>
+        <text x="26" y="120" font-family="Arial, sans-serif" font-size="14" font-weight="600" fill="#ffc107">Med.</text>
+        <text x="290" y="120" font-family="monospace" font-size="14" fill="#ffc107">315/1840</text>
+        <text x="26" y="140" font-family="Arial, sans-serif" font-size="14" font-weight="600" fill="#dc3545">Hard</text>
+        <text x="290" y="140" font-family="monospace" font-size="14" fill="#dc3545">5/833</text>
+          <line x1="360" y1="20" x2="360" y2="150" stroke="#e1e4e8" stroke-width="1"/>
+         <text x="380" y="40" font-family="Arial, sans-serif" font-size="14" fill="#ffffff" text-transform="uppercase" letter-spacing="0.5">LANGUAGE</text>
+         <line x1="380" y1="55" x2="680" y2="55" stroke="#e1e4e8" stroke-width="1"/>
+         <text x="390" y="80" font-family="Arial, sans-serif" font-size="20" fill="#ffffff">C++</text>
+         <text x="390" y="110" font-family="Arial, sans-serif" font-size="20" fill="#ffffff">Python3</text>
+         <text x="390" y="140" font-family="Arial, sans-serif" font-size="20" fill="#ffffff">MySQL</text>
+         <text x="500" y="40" font-family="Arial, sans-serif" font-size="14" fill="#ffffff" text-transform="uppercase" letter-spacing="0.5">PROBELMS SOLVED</text>
+         <text x="550" y="80" font-family="Arial, sans-serif" font-size="14" fill="#ffffff">468</text>
+         <text x="550" y="110" font-family="Arial, sans-serif" font-size="14" fill="#ffffff">157</text>
+         <text x="550" y="140" font-family="Arial, sans-serif" font-size="14" fill="#ffffff">5</text>
+
+    </svg>
