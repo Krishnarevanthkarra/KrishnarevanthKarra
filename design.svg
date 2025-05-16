@@ -3,7 +3,7 @@
         <!--Total Count-->
         <rect x="10" y="10" width="690" height="150" rx="6" ry="6" fill="#1E2526" stroke="#e1e4e8" stroke-width="1"/>
         <!-- Stat Row: Solved and Attempting -->
-        <text x="26" y="40" font-family="Arial, sans-serif" font-size="24" font-weight="600" fill="#ffffff">620/3549</text>
+        <text x="26" y="40" font-family="Arial, sans-serif" font-size="24" font-weight="600" fill="#ffffff">641/3549</text>
         <text x="26" y="60" font-family="Arial, sans-serif" font-size="14" fill="#ffffff" text-transform="uppercase" letter-spacing="0.5">SOLVED</text>
         <text x="250" y="40" font-family="Arial, sans-serif" font-size="24" font-weight="600" fill="#ffffff">62</text>
         <text x="250" y="60" font-family="Arial, sans-serif" font-size="14" fill="#ffffff" text-transform="uppercase" letter-spacing="0.5">ATTEMPTING</text>
