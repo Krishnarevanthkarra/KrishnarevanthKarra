@@ -1,3 +1,3 @@
 <!-- LEETCODE_STATS_START -->
-![LeetCode Stats](https://raw.githubusercontent.com/Krishnarevanthkarra/LeetCode-Stats/Display.svg?cache_bust=1747531092)
+![LeetCode Stats](https://leetcode-stats-9k4x.onrender.com/leetcode-stats/Krishna_Revanth_Karra?cache_bust=1747533497)
 <!-- LEETCODE_STATS_END -->
