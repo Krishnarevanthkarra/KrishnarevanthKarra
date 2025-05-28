@@ -1,3 +1,3 @@
 <!-- LEETCODE_STATS_START -->
-![LeetCode Stats](https://raw.githubusercontent.com/Krishnarevanthkarra/LeetCode-Stats/main/Display.svg?cache_bust=1748392976)
+![LeetCode Stats](https://raw.githubusercontent.com/Krishnarevanthkarra/LeetCode-Stats/main/Display.svg?cache_bust=1748403410)
 <!-- LEETCODE_STATS_END -->
