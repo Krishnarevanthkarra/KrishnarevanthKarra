@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Krishna Revanth</h1>
-<h3 align="center">A passionate Developer from India</h3>
+<h3 align="center">A Passionate Developer from India</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Krishnarevanthkarra&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -51,6 +51,7 @@ alt="LeetCodeStats"
 
 <hr style="border:1px solid #0e75b6;">
 
+<!--
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Krishnarevanthkarra&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
@@ -63,3 +64,4 @@ alt="LeetCodeStats"
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Krishnarevanthkarra&theme=radical" alt="GitHub Streak" />
 </p>
+-->
