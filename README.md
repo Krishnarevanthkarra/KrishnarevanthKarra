@@ -53,8 +53,6 @@
 <!-- LEETCODE_STATS_END -->
 </p>
 
-![LeetCode Stats](https://raw.githubusercontent.com/Krishnarevanthkarra/LeetCode-Stats-Auto-Updater/main/Display2.svg)
-
 <hr style="border:1px solid #0e75b6;">
 
 <!--
