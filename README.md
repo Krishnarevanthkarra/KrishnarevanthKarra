@@ -47,7 +47,7 @@
 <p align="center">
 <!-- LEETCODE_STATS_START -->
 <img align="center"
-                src ="https://raw.githubusercontent.com/Krishnarevanthkarra/LeetCode-Stats/main/Display.svg?cache_bust=1749605153"
+                src ="https://raw.githubusercontent.com/Krishnarevanthkarra/LeetCode-Stats/main/Display.svg?cache_bust=1749691457"
                 alt ="LeetCodeStats"
                 />
 <!-- LEETCODE_STATS_END -->
