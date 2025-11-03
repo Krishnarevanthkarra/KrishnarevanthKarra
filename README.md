@@ -1,14 +1,14 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Krishna Revanth</h1>
 <h3 align="center">A Passionate Developer from India</h3>
 <hr style="border:1px solid #0e75b6;"/>
-
+<!--
 ### 👨‍💻About Me
 - 🔹 Software Developer from India
 - 🔹 Passionate about App Development & Backend Development, coding challenges.
 - 🔹 Working with **C++**, **Python**.
 - 🔹 Currently exploring Backend Development.
-
 <hr style="border:1px solid #0e75b6;">
+-->
 
 ### 🔗 Connect with me
 <p align="left">
