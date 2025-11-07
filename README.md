@@ -8,8 +8,6 @@
 - 🔹 Working with **C++**, **Python**.
 - 🔹 Currently exploring Backend Development.
 <hr style="border:1px solid #0e75b6;">
--->
-
 ### 🔗 Connect with me
 <p align="left">
   <a href="https://linkedin.com/in/krishna-revanth-karra-CR7" target="blank">
@@ -22,20 +20,16 @@
     <img align="center" src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
 </p>
-
 <hr style="border:1px solid #0e75b6;">
-
 ### 💼 Langauges and Tools
 <p align="left"> 
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <!--
   <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  -->
 </p>
-
 <hr style="border:1px solid #0e75b6;">
+-->
 
 ### 📊 LeetCode Stats | Auto-Updated Daily by My Custom Script
 - Check the LeetCode-Stats-Auto-Updater Repo below.
