@@ -3,7 +3,7 @@
 <hr style="border:1px solid #0e75b6;"/>
 
 ![Metrics](https://raw.githubusercontent.com/krishnarevanthkarra/LeetCode-Stats-Auto-Updater/main/display-1.svg)
-
+![In practice](https://raw.githubusercontent.com/Krishnarevanthkarra/learning-git/main/display.svg)
 <!--
 ### 👨‍💻About Me
 - 🔹 Software Developer from India
