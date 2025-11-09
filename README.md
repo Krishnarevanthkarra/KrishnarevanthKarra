@@ -1,9 +1,6 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Krishna Revanth</h1>
 <h3 align="center">A Passionate Developer from India</h3>
 <hr style="border:1px solid #0e75b6;"/>
-
-![Metrics](https://raw.githubusercontent.com/krishnarevanthkarra/LeetCode-Stats-Auto-Updater/main/display-1.svg)
-![In practice](https://raw.githubusercontent.com/Krishnarevanthkarra/learning-git/main/display.svg)
 <!--
 ### 👨‍💻About Me
 - 🔹 Software Developer from India
@@ -37,13 +34,8 @@
 ### 📊 LeetCode Stats | Auto-Updated Daily by My Custom Script
 - Check the LeetCode-Stats-Auto-Updater Repo below.
 <p align="center">
-<!-- LEETCODE_STATS_START -->
-<img align="center"
-                src ="https://raw.githubusercontent.com/Krishnarevanthkarra/LeetCode-Stats-Auto-Updater/main/Display.svg?cache_bust=1762651574"
-                alt ="LeetCodeStats"
-                />
-<!-- LEETCODE_STATS_END -->
-</p>
+  
+![LeetCode Stats](https://raw.githubusercontent.com/Krishnarevanthkarra/LeetCode-Stats-Auto-Updater/main/Display.svg)
 
 <hr style="border:1px solid #0e75b6;">
 
