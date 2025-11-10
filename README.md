@@ -35,7 +35,9 @@
 - Check the LeetCode-Stats-Auto-Updater Repo below.
 <p align="center">
   
-![LeetCode Stats](https://raw.githubusercontent.com/Krishnarevanthkarra/LeetCode-Stats-Auto-Updater/main/Display.svg)
+<img src='https://raw.githubusercontent.com/Krishnarevanthkarra/LeetCode-Stats-Auto-Updater/main/Display.svg' alt='LeetCode Stats'>
+
+</p>
 
 <hr style="border:1px solid #0e75b6;">
 
